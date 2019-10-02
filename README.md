@@ -1,6 +1,6 @@
 # ESP8266-SPI-SDCARD 
 
-已完成功能: 
+已完成功能:  
 8266 GPIO模拟SPI输入输出配置  
 读取Sd卡CID, CSD信息  
 计算SD v1.0 卡容量  
