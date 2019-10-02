@@ -1,5 +1,6 @@
 # ESP8266-SPI-SDCARD  
 ### 串口返回示例:  
+#### 以2G samsung SD卡为例:  
 ```
 SD_IO_INIT:OK
 SD_INIT:ff
